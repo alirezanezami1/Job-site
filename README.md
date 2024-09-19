@@ -1,7 +1,7 @@
 # Vue Jobs Project
 
 
-<img src="public/screen.png" />
+
 
 ## Usage
 
